@@ -10,3 +10,11 @@ C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF202
 C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.csproj.CopyComplete
 C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.dll
 C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.pdb
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\VM.LF2020.Model.deps.json
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\VM.LF2020.Model.dll
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\VM.LF2020.Model.pdb
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.csproj.CoreCompileInputs.cache
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.AssemblyInfoInputs.cache
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.AssemblyInfo.cs
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.dll
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.pdb

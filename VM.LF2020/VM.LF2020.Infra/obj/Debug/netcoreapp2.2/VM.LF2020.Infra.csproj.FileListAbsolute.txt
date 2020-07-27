@@ -12,3 +12,15 @@ C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF202
 C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.csproj.CopyComplete
 C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.dll
 C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.pdb
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\bin\Debug\netcoreapp2.2\VM.LF2020.Infra.deps.json
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\bin\Debug\netcoreapp2.2\VM.LF2020.Infra.dll
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\bin\Debug\netcoreapp2.2\VM.LF2020.Infra.pdb
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\bin\Debug\netcoreapp2.2\VM.LF2020.Model.dll
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\bin\Debug\netcoreapp2.2\VM.LF2020.Model.pdb
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.csprojAssemblyReference.cache
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.AssemblyInfo.cs
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.csproj.CopyComplete
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.dll
+C:\Projetos\Softwares\LotoFacil2020\VM.LF2020\VM.LF2020.Infra\obj\Debug\netcoreapp2.2\VM.LF2020.Infra.pdb

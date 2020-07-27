@@ -12086,11 +12086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Softwares\\VM.LF2020\\VM.LF2020.UI\\VM.LF2020.UI.csproj",
+      "projectUniqueName": "C:\\Projetos\\Softwares\\LotoFacil2020\\VM.LF2020\\VM.LF2020.UI\\VM.LF2020.UI.csproj",
       "projectName": "VM.LF2020.UI",
-      "projectPath": "C:\\Projetos\\Softwares\\VM.LF2020\\VM.LF2020.UI\\VM.LF2020.UI.csproj",
+      "projectPath": "C:\\Projetos\\Softwares\\LotoFacil2020\\VM.LF2020\\VM.LF2020.UI\\VM.LF2020.UI.csproj",
       "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Softwares\\VM.LF2020\\VM.LF2020.UI\\obj\\",
+      "outputPath": "C:\\Projetos\\Softwares\\LotoFacil2020\\VM.LF2020\\VM.LF2020.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
