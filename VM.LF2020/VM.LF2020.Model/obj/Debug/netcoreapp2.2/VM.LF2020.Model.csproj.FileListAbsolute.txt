@@ -1,0 +1,12 @@
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\VM.LF2020.Model.deps.json
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\VM.LF2020.Model.dll
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\VM.LF2020.Model.pdb
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.csprojAssemblyReference.cache
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.csproj.CoreCompileInputs.cache
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.AssemblyInfoInputs.cache
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.AssemblyInfo.cs
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.csproj.CopyComplete
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.dll
+C:\Projetos\Softwares\VM.LF2020\VM.LF2020.Model\obj\Debug\netcoreapp2.2\VM.LF2020.Model.pdb

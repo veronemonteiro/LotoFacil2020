@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "VM.LF2020.Core/1.0.0": {
+        "dependencies": {
+          "VM.LF2020.Model": "1.0.0"
+        },
+        "runtime": {
+          "VM.LF2020.Core.dll": {}
+        }
+      },
+      "VM.LF2020.Model/1.0.0": {
+        "dependencies": {
+          "System.Data.SqlClient": "4.5.0.0"
+        },
+        "runtime": {
+          "VM.LF2020.Model.dll": {}
+        }
+      },
+      "System.Data.SqlClient.Reference/4.5.0.0": {
+        "runtime": {
+          "System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.6.27110.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VM.LF2020.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VM.LF2020.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.SqlClient.Reference/4.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
